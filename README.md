@@ -23,7 +23,7 @@ Pin 3 : Ground
 
 Pin 8 : 12V DC
 
-Pin 10; Fuel Level
+Pin 10:Fuel Level
 
 PIN 12 : HS CAN HIGH
 
