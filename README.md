@@ -30,7 +30,7 @@ PIN 12 : HS CAN HIGH
 PIN 13 : HS CAN LOW
 
 
-Menu keys : (Digital pin X to Ground )
+Menu keys : (Digital pin on arduino to Ground Arduino )
 
   OK PIN : 3
   
