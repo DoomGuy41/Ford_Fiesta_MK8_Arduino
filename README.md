@@ -17,7 +17,7 @@ If you want to use the menu keys (you will want at least the ok key to clear the
 
 Pinout : 
 
-Pin 2 : Fuel level return
+Pin 2 : Fuel level return   
 
 Pin 3 : Ground
 
@@ -29,6 +29,18 @@ PIN 12 : HS CAN HIGH
 
 PIN 13 : HS CAN LOW
 
+
+Menu keys : (Digital pin X to Ground )
+
+  OK PIN : 3
+  
+  UP PIN : 4
+  
+  DOWN PIN : 5
+  
+  BACK PIN : 6
+  
+  MENU PIN : 7
 
 Connect a 180 ohm resistor between fuel level and fuel level return to max the fuel gauge, it's not controlled by canbus.
 
