@@ -13,7 +13,6 @@ There is a Static sketch you can use to test your setup
 
 You will need a 12v DC power supply, 
 An arduino with a mcp2515 or SeedStudio can bus shield
-If you want to use the menu keys (you will want at least the ok key to clear the message on the screen )
 
 Pinout : 
 
@@ -30,7 +29,8 @@ PIN 12 : HS CAN HIGH
 PIN 13 : HS CAN LOW
 
 
-Menu keys : (Digital pin on arduino to Ground Arduino )
+# Menu keys : (Digital pin on arduino to Ground Arduino )
+If you want to use the menu keys (you will want at least the ok key to clear the message on the screen )
 
   OK PIN : 3
   
